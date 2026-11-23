@@ -24,3 +24,6 @@ Qué incluye y qué no incluye el proyecto.
 | Robert | | |
 | Iris | | |
 | Raúl | | |
+
+
+Esta documentación ha sido publicada mediante GitHub Pages
